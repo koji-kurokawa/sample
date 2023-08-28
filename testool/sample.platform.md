@@ -1,0 +1,3 @@
+### Platform
+- Google Chrome
+- Edge
